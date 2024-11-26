@@ -9,6 +9,7 @@ __pycache__/
 # data
 HW1/data/*
 HW2/data/*
+HW3/data/*
 
 # Distribution / packaging
 .Python
