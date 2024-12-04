@@ -11,6 +11,7 @@ HW1/data/*
 HW2/data/*
 HW3/data/*
 HW3/models/*
+HW3/bluepill.ipynb
 
 # Distribution / packaging
 .Python
