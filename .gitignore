@@ -7,15 +7,15 @@ __pycache__/
 *.so
 
 # data
-HW1/data/*
-HW2/data/*
-HW3/data/*
-HW4/data/*
-HW3/models/*
-HWe/data/*
-HW3/bluepill.ipynb
-HW5/data/*
-HW6/data/*
+HW1-MLP/data/*
+HW2-CNN/data/*
+HW3-RCNN/data/*
+HW4-RNN/data/*
+HW3-RCNN/models/*
+HWe-LLM/data/*
+HW3-RCNN/bluepill.ipynb
+HW5-Transfromer/data/*
+HW6-Generative/data/*
 
 # Distribution / packaging
 .Python
